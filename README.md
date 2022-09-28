@@ -1,3 +1,6 @@
+# Announcement :loudspeaker: 
+This repository is transferred from [gdm-SynseneHealth](https://github.com/draysontechnologies/SwiftEntryKit) to Huma organisation as part of change in asset ownership 
+
 # SwiftEntryKit <img align="left" height=42 src="https://github.com/huri000/assets/blob/master/swift-entrykit/project-icon.png">
 
 [![Platform](http://img.shields.io/badge/platform-iOS-blue.svg?style=flat)](https://developer.apple.com/iphone/index.action)
